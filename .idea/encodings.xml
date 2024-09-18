@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ProductReservationInitSubscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductReservationInitSubscriber/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonMessage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonMessage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orderServicePublisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orderServicePublisher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paymentFailPublisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paymentFailSubscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paymentInitPublisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paymentInitSubscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paymentSuccessPublisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/paymentSuccessSubscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReleaseInitPublisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReleaseInitSubscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReleaseSuccessPublisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReleaseSuccessSubscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReservationFailPublisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReservationFailSubscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReservationSuccessPublisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReservationSuccessSubscriber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReserveInitPublisher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/productReserveInitPublisher/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
